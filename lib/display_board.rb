@@ -2,6 +2,7 @@
 def display_board
   puts "   |   |   "
   2.times { puts
+  puts "-----------"
   puts "   |   |   "
-  puts "-----------"}
+  }
 end
